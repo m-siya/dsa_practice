@@ -24,3 +24,18 @@ A place to document our DSA journey
 
 1. [N Queens](https://leetcode.com/problems/n-queens/)
     - [dvishal485 : cpp](dvishal485/n-queens.cpp)
+
+1. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+    - [dvishal485 : rust](dvishal485/longest-common-prefix.rs)
+
+1. [As far from land as possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
+    - [dvishal485 : rust](dvishal485/as-far-from-land-as-possible.rs)
+
+1. [Reverse vowels of a string](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+    - [dvishal485 : rust](dvishal485/reverse-vowels-of-a-string.rs)
+
+1. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+    - [dvishal485 : rust](dvishal485/generate-parentheses.rs)
+
+1. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+    - [dvishal485 : rust](dvishal485/letter-combinations.rs)
