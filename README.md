@@ -39,3 +39,9 @@ A place to document our DSA journey
 
 1. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
     - [dvishal485 : rust](dvishal485/letter-combinations.rs)
+
+1. [Check if a Parentheses String is Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)
+    - [dvishal485 : rust](dvishal485/parentheses-string-check.rs)
+
+1. [Minimum Fuel](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)
+    - [dvishal485 : rust](dvishal485/minimum-fuel.rs)
