@@ -45,3 +45,9 @@ A place to document our DSA journey
 
 1. [Minimum Fuel](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)
     - [dvishal485 : rust](dvishal485/minimum-fuel.rs)
+
+1. [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
+    - [dvishal485 : rust](dvishal485/minimum-distance-between-bst-nodes.rs)
+
+1. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+    - [dvishal485 : rust](dvishal485/number-of-provinces.rs)
