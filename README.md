@@ -57,3 +57,6 @@ A place to document our DSA journey
 
 1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
     - [dvishal485 : rust](dvishal485/subarray-sum.rs)
+
+1. [House Robber](https://leetcode.com/problems/house-robber/)
+    - [dvishal485 : rust](dvishal485/house-robber.rs)
