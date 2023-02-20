@@ -1,5 +1,3 @@
-use std::cmp::Ordering;
-
 struct Solution {}
 
 impl Solution {
@@ -18,16 +16,7 @@ impl Solution {
             let (idx, _) = local_avaliable
                 .iter()
                 .enumerate()
-                .max_by(|&(idx_1, &elem_1), &(idx_2, &elem_2)| {
-                    let n1 = idx_1 as i32 + elem_1;
-                    let n2 = idx_2 as i32 + elem_2;
-                    if n1 > n2 {
-                        return Ordering::Greater;
-                    } else if n1 == n2 {
-                        return idx_1.cmp(&idx_2);
-                    }
-                    Ordering::Less
-                })
+                .max_by_key(|&(idx, &elem)| idx as i32 + elem)
                 .unwrap();
             nums = &nums[idx..];
         }
