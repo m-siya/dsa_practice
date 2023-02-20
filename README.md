@@ -51,3 +51,9 @@ A place to document our DSA journey
 
 1. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
     - [dvishal485 : rust](dvishal485/number-of-provinces.rs)
+
+1. [Jump Game](https://leetcode.com/problems/jump-game/)
+    - [dvishal485 : rust](dvishal485/jump-game.rs) : Ugly but it works
+
+1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+    - [dvishal485 : rust](dvishal485/subarray-sum.rs)
