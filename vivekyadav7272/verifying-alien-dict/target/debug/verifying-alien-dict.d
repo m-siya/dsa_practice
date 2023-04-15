@@ -1,0 +1,1 @@
+/home/sandstorm/programming/rust_projects/random_programs/verifying-alien-dict/target/debug/verifying-alien-dict: /home/sandstorm/programming/rust_projects/random_programs/verifying-alien-dict/src/main.rs

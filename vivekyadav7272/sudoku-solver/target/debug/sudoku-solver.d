@@ -1,0 +1,1 @@
+/home/sandstorm/programming/rust_projects/random_programs/sudoku-solver/target/debug/sudoku-solver: /home/sandstorm/programming/rust_projects/random_programs/sudoku-solver/src/main.rs /home/sandstorm/programming/rust_projects/random_programs/sudoku-solver/src/main_optimisation.rs

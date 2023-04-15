@@ -1,0 +1,1 @@
+/home/sandstorm/programming/rust_projects/random_programs/min-fuel-cost-to-city/target/debug/min-fuel-cost-to-city: /home/sandstorm/programming/rust_projects/random_programs/min-fuel-cost-to-city/src/main.rs

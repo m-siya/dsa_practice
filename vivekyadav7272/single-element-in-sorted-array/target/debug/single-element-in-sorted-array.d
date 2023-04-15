@@ -1,0 +1,1 @@
+/home/sandstorm/programming/rust_projects/random_programs/single-element-in-sorted-array/target/debug/single-element-in-sorted-array: /home/sandstorm/programming/rust_projects/random_programs/single-element-in-sorted-array/src/main.rs
